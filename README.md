@@ -7,10 +7,25 @@
 <img src="https://github.com/diengbtvu/diengbtvu/blob/main/led-rgb.gif" width="100%"/>
 <img src="https://github.com/diengbtvu/diengbtvu/blob/main/mario3.gif" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Trần Tấn Hưng</h1>
+<h1 align="center">Hi 👋, I'm Trần Tấn Hưng, I'm a Next.js Developer!</h1>
 
 
-<p>I'm a Java Spring Boot programmer who enjoys working on challenging and high-impact software projects. I have experience with back-end development and use Spring Boot extensively to build reliable, scalable applications. I'm always looking for new ways to improve my skills and collaborate on interesting projects.</p>
+I'm a developer with basic frontend and backend skills using **Next.js**.  
+I enjoy building simple, functional web applications and always aim to keep learning through real-world projects.
+
+---
+
+### 🛠️ Tech Stack
+<ul>
+  <li>📍 Based in Vinh Long, Viet Nam.</li>
+  <li>💻 - 🔹 Frontend & Backend: **Next.js (React, API Routes)**</li>
+  <li>- 🔹 Styling: **Tailwind CSS**, **CSS Modules**</li>
+  <li>- 🔹 Version Control: **Git & GitHub**</li>
+</ul>
+
+### 📫 Contact
+Feel free to connect or explore my repositories!    
+📧 Email: tranhunggit@gmail.com
 
 <h3 align="center">Contact me</h3>
 <p align="center">
@@ -20,12 +35,6 @@
 
 </p>
 
-<ul>
-  <li>📍 Based in Tra Vinh, Viet Nam.</li>
-  
-  <li>💻 Skills: Java, Spring Boot</li>
-  <li>🤝 Open to collaborating on web or software development projects.</li>
-</ul>
 
 <h3 align="center">Software and Technology</h3>
 <p align="center">
