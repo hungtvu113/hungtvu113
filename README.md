@@ -12,7 +12,7 @@
 
 I'm a developer with basic frontend and backend skills using **Next.js**.  
 I enjoy building simple, functional web applications and always aim to keep learning through real-world projects.
-https://drive.google.com/drive/folders/15CylZ6OAwFzQ4GjfFEFmOvEVetQiwUl2?usp=sharing
+
 
 ---
 
